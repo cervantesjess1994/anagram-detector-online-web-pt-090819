@@ -9,7 +9,7 @@ class Anagram
 
   def match(array_of_words)
     anagram = Array.new
-    word.split("").all? == word 
+    word.split("").all? == word
 
 
   end
