@@ -1,7 +1,8 @@
 class Anagram
-  attr_accessor 
+  attr_accessor :anagram
 
   def initialize
+    @anagram = anagrams
   end
 
   def match
