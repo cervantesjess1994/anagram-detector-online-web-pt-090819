@@ -1,5 +1,5 @@
 class Anagram
-  attr_accessor :
+  attr_accessor 
 
   def initialize
   end
@@ -7,4 +7,4 @@ class Anagram
   def match
   end
 
-end  
+end
