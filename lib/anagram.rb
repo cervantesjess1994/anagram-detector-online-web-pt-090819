@@ -1,11 +1,12 @@
 class Anagram
   attr_accessor :anagram
 
-  def initialize
+  def initialize(word)
     @anagram = anagram
   end
 
-  def match
+  def match(anagrams)
+    anagrams = Array.new
   end
 
 end
