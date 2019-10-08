@@ -7,8 +7,8 @@ class Anagram
 
   def match(word)
     anagram = Array.new
-    
-    
+
+
   end
 
 end
